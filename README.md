@@ -1,6 +1,6 @@
 ## Netflix Clone Web App
 
-## [Built with] (<img src="https://img.icons8.com/officel/48/000000/react.png" alt="bulma" width="40" height="40"/>)
+## Built with <img src="https://img.icons8.com/officel/48/000000/react.png" alt="bulma" width="40" height="40"/>
 
 ### Project Overview
 
@@ -12,4 +12,4 @@
   
 ### Preview
 
-![Click Here to View Web App](https://netflix-8936f.web.app/)
+### [Click Here to View Web App](https://netflix-8936f.web.app/)
