@@ -14,4 +14,4 @@
   
 ### Preview
 
-### [Click Here to View Web App](https://netflix-8936f.web.app/)
+### [Clickk Here to View Web App](https://netflix-8936f.web.app/)
