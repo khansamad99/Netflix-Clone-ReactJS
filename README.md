@@ -9,6 +9,8 @@
 * Used TMDB API for movies and TV Shows data
 
 * Firebase for deploying
+
+* Trailer popup appears on clicking the movie or show
   
 ### Preview
 
